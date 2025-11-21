@@ -1,0 +1,12 @@
+
+[MeterCustomText]
+Meter=String
+StringAlign=Center
+FontFace=D3 DigiBitMapism type B wide
+FontColor=#TextColor#
+FontSize=(14*#Scale#)
+X=(340*#Scale#)
+Y=(160*#Scale#)
+Text="ZABIR"
+AntiAlias=1
+
